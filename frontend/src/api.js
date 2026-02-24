@@ -1,4 +1,4 @@
-const BASE_URL = process.env.REACT_APP_API_URL || '';
+const BASE_URL = process.env.REACT_APP_API_URL || "https://support-assistant-35p0.onrender.com/api";
 
 export async function sendMessage(sessionId, message) {
   const res = await fetch(`${BASE_URL}/api/chat`, {
