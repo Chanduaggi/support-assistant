@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security > Reset Password. You will receive an email with a reset link valid for 24 hours. If you don't receive the email, check your spam folder or contact support."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. To request a refund, go to Account > Orders > Request Refund. Refunds are processed within 3–5 business days back to the original payment method. Digital downloads are non-refundable once accessed."
+  },
+  {
+    "title": "Account Registration",
+    "content": "To create an account, visit the Sign Up page and provide your name, email address, and a secure password. You'll receive a verification email — click the link to activate your account. Accounts not verified within 48 hours are automatically deleted."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "We offer three plans: Free (5 projects, 1GB storage), Pro ($9.99/month, unlimited projects, 50GB storage, priority support), and Enterprise (custom pricing, dedicated infrastructure, SLA guarantee). You can upgrade or downgrade at any time from Account > Billing."
+  },
+  {
+    "title": "Cancel Subscription",
+    "content": "You can cancel your subscription anytime from Account > Billing > Cancel Plan. Your plan remains active until the end of the current billing period. After cancellation, your account reverts to the Free tier. Data is retained for 90 days before permanent deletion."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Enable 2FA from Settings > Security > Two-Factor Authentication. We support authenticator apps (Google Authenticator, Authy) and SMS verification. It is strongly recommended to save your backup codes in a safe place when setting up 2FA."
+  },
+  {
+    "title": "Data Export",
+    "content": "You can export all your data from Account > Privacy > Export Data. The export includes all projects, files, and account information in a ZIP archive. Exports are processed within 24 hours and a download link is emailed to you."
+  },
+  {
+    "title": "Contact Support",
+    "content": "You can reach our support team via: Email at support@example.com (response within 24 hours), Live Chat available Monday–Friday 9AM–6PM EST, or through the in-app Help widget. Pro and Enterprise customers receive priority support with faster response times."
+  },
+  {
+    "title": "Storage Limits",
+    "content": "Free plan users get 1GB of storage. Pro users get 50GB. Enterprise users get custom storage allocations. You can check your current usage from Account > Storage. Exceeding your limit will prevent new uploads until storage is freed or your plan is upgraded."
+  },
+  {
+    "title": "API Access",
+    "content": "API access is available on Pro and Enterprise plans. Generate your API key from Settings > Developer > API Keys. The API uses REST with JSON responses. Rate limits are 1000 requests/hour for Pro and unlimited for Enterprise. Full API documentation is at docs.example.com/api."
+  }
+]
